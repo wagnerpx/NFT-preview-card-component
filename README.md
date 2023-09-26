@@ -2,10 +2,13 @@
 
 ## Índice
 
-- [Sobre](#sobre)
-- [Tecnologias](#tecnologias)
-- [Pré-visualização card](#pré-visualização-card)
-- [Pré-visualização card selecionado](#pré-visualização-card-selicionado)
+- [NFT preview card component - Frontend Mentor](#nft-preview-card-component---frontend-mentor)
+  - [Índice](#índice)
+  - [Sobre](#sobre)
+  - [Tecnologias](#tecnologias)
+  - [Pré-visualização card](#pré-visualização-card)
+  - [Pré-visualização card selicionado](#pré-visualização-card-selicionado)
+  - [Autor](#autor)
 
 
 ## Sobre
@@ -19,11 +22,11 @@ Nesse projeto foi bem desafiador centralizar os elementos, mais no fínal deu tu
 
 ## Pré-visualização card
 
-![](../NFT%20preview%20card%20component/src/images/Card.png)
+![](./src/images/Card.png)
 
 ## Pré-visualização card selicionado
 
-![](../NFT%20preview%20card%20component/src/images/Card_selecionado.png)
+![](./src/images/Card_selecionado.png)
 
 ## Autor
 
